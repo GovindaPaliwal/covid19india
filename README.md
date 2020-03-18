@@ -10,4 +10,10 @@ Which is collect from
 Ministry of Health and Family Welfare, Gov. of India
 https://www.mohfw.gov.in/
 
+### How to quarantine yourself at home
+https://gpfreetech.co/coronavirus-how-to-quarantine-yourself-at-home/
+
+
+
+
 
