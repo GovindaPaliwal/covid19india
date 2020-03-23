@@ -13,6 +13,11 @@ https://www.mohfw.gov.in/
 ### How to quarantine yourself at home
 https://gpfreetech.co/coronavirus-how-to-quarantine-yourself-at-home/
 
+### Live global stats (provided by [fight-covid19/bagdes](https://github.com/fight-covid19/bagdes)) from this API:**
+
+![Covid-19 Confirmed](https://covid19-badges.herokuapp.com/confirmed/latest?long=true)
+![Covid-19 Recovered](https://covid19-badges.herokuapp.com/recovered/latest?long=true)
+![Covid-19 Deaths](https://covid19-badges.herokuapp.com/deaths/latest?long=true)
 
 
 
